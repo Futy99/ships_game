@@ -1,0 +1,13 @@
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.exe
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.deps.json
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.runtimeconfig.json
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.runtimeconfig.dev.json
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.dll
+C:\Users\futer\source\repos\ships_game\ships_game\bin\Debug\netcoreapp3.1\ships_game.pdb
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.csprojAssemblyReference.cache
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.csproj.CoreCompileInputs.cache
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.AssemblyInfoInputs.cache
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.AssemblyInfo.cs
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.dll
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.pdb
+C:\Users\futer\source\repos\ships_game\ships_game\obj\Debug\netcoreapp3.1\ships_game.genruntimeconfig.cache
